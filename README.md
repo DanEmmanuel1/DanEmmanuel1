@@ -37,6 +37,8 @@ I believe in learning by building — every project I create solves a real secur
 | 4 | [Log Analyzer & Threat Detector](https://github.com/DanEmmanuel1/log-analyzer) | Reads Windows Event Logs, detects brute force, privilege escalation | ✅ Complete |
 | 5 | [Vulnerability Scanner](https://github.com/DanEmmanuel1/vulnerability-scanner) | Scans targets against vulnerability database with risk scoring | ✅ Complete |
 | 6 | [SIEM Dashboard](https://github.com/DanEmmanuel1/siem-dashboard) | Full-stack real-time security dashboard aggregating all 5 tools | ✅ Complete |
+| 7 | SIEM Platform | Unified CLI controlling all 6 tools from one entry point | ✅ Complete |
+| 8 | Correlation Engine | Links events across tools to detect multi-step attacks | ✅ Complete |
 
 ---
 
